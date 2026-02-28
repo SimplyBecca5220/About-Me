@@ -7,7 +7,7 @@ What I Do:
 - Web Development: Building responsive, high-performance web applications and robust APIs to serve as the backbone for modern digital products.
   
 - Blockchain & Web3: Developing decentralized applications (dApps), secure smart contracts, and exploring tokenomics and crypto ecosystems.
-- 
+  
 - AI & Machine Learning: Implementing intelligent models, retrieval-augmented generation (RAG) pipelines, and autonomous agents into production-ready software.
   
 - Tech Leadership: Driving tech education, mentoring, and fostering developer communities through structured, hands-on training programs.
